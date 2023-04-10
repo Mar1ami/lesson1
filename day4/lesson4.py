@@ -1,5 +1,8 @@
+#მომხმარებელს შემოატანინე ორი სახელი და ის დაპრინტე რომელშიც მეტი თანხმოვანი იქნება
+#(დააფორმატეთ პასუხი ლამაზად)
 name1=input("enter name1: ")
 name2=input("enter name2: ")
+#შევქმენი ორი საინკრემენტაციო ცვლადი
 ammount_of_consonants_in_name1 = 0
 ammount_of_consonants_in_name2 = 0
 for char in name1:

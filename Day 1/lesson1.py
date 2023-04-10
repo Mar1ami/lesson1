@@ -1,8 +1,9 @@
+#my house
 from turtle import *
 bgcolor("green")
 speed(30)
 width(7)
-#rectangle
+#step 1:draw a square
 color("purple")
 begin_fill()
 
@@ -19,9 +20,10 @@ forward(200)
 left(90)
 forward(70)
 end_fill()
+# end of square
 
 
-#door
+# drawing a door
 color("red")
 begin_fill()
 left(90)
